@@ -5,6 +5,11 @@
 This README file documents the development process of **FurniCo**, a niche furniture e-commerce platform, built using **Next.js**, **TypeScript**, and **Sanity CMS**. The project was executed in a 7-day timeline, with each day focused on specific goals to ensure a structured and efficient workflow.
 
 Forntend github repo https://github.com/samade747/Hackathon-Project-GIaic-Furniture-Website-upgradation-final-upgradtion-stripe/tree/main/updatestripe
+live https://hackathon-project-g-iaic-furniture-web-samads-projects-e4090820.vercel.app/
+
+
+Dashboard github repo link :https://github.com/samade747/Hackathon-Project-Dashboard-for-AnyWebsite-Mongodb/tree/main/dashboardmongodb
+live https://hackathon-project-dashboard-for-any-website-mongodb.vercel.app/admin/login
 ---
 
 ## Day-by-Day Breakdown
